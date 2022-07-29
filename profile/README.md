@@ -1,7 +1,7 @@
 # Hentai Team
 ## Welcome to Hentai Team Page!
 
-[![VKontakte](https://img.shields.io/badge/kolibracorp.hterminal-VKontakte-blue)](https://vk.com/kolibracorp.hterminal)
+[![VK](https://img.shields.io/badge/VK-kolibracorp.hterminal-blue)](https://vk.com/kolibracorp.hterminal)
 
 ### Hello, world!
 
