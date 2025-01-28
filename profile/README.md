@@ -1,5 +1,5 @@
-# Hentai Team
-## Welcome to Hentai Team Page!
+# hteam
+## Welcome to hteam Page!
 
 [![VK](https://img.shields.io/badge/VK-kolibracorp.hterminal-blue)](https://vk.com/kolibracorp.hterminal)
 
