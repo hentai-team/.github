@@ -1,5 +1,4 @@
-![hteam](assets/hteam_banner.png)
-
+![hteam](https://github.com/hentai-team/.github/blob/main/profile/assets/hteam-splash.png?raw=true)
 # Welcome to the hteam! 🚀
 
 ## About Us
