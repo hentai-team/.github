@@ -1,4 +1,4 @@
-![hteam](assets/welcome_banner.png)
+![hteam](assets/hteam_banner.png)
 
 # Welcome to the hteam! 🚀
 
