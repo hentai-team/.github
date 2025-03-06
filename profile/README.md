@@ -1,16 +1,57 @@
-# hteam
-## Welcome to hteam Page!
+![hteam](assets/welcome_banner.png)
 
-[![VK](https://img.shields.io/badge/VK-kolibracorp.hterminal-blue)](https://vk.com/kolibracorp.hterminal)
+# Welcome to the hteam! 🚀
 
-### Hello, world!
+## About Us
+We are a passionate team of developers working on an innovative suite of command-line tools and applications. Our main projects include:
 
-This is a new, beautiful, elegant, modifiable and modular terminal, in the development of which everyone can take part. You can create something new, you can modify something, or you can play with the settings by adding your own. Or you can just play around with the themes and colors of the terminal. You can do with the terminal what you want to do.
+- **hbash** - A modern, feature-rich command-line shell
+- **hterminal** - A powerful terminal emulator
+- **hfetch** - A utility for displaying system information
 
-### Why the project?
+The list is not final: there is a lot of work and solutions being developed, so in the future there will be something to look at with a **wow** effect.
 
-The project is needed in order to show an example of a beautiful application that will perfectly perform all the functions that the user requires.
+## Our Mission
+We aim to create elegant, efficient, and user-friendly command-line tools that make developers' lives easier. Our focus is on performance, reliability, and modern features while maintaining compatibility with existing shell scripts.
 
-### Modularity, modifiability, flexibility.
+## Projects Overview
 
-The application can be modified, customized, add its own modules, commands, easily use all the functions of the application, and much more. You can implement anything: from simple possibilities to the most enormous.
+### hbash
+Our flagship project is a next-generation shell that offers:
+- Modern syntax highlighting
+- Smart autocompletion
+- Plugin support
+- Custom scripting capabilities
+
+### hterminal
+A terminal emulator designed for:
+- High performance
+- Customizable interface
+- Advanced text rendering
+- Multiple session support
+
+### hfetch
+A sleek system information display tool featuring:
+- Real-time hardware monitoring
+- Custom ASCII art logos
+- Detailed OS information
+- Memory and CPU statistics
+- Network interface details
+- Colorful and customizable output
+
+## Contributing
+We welcome contributions! Feel free to:
+- Report issues
+- Submit pull requests
+- Share ideas
+- Join our community
+
+## Contact
+- Our GitHub: [hteam](https://github.com/hentai-team)
+- hterminal on VK: [Open VK](https://vk.com/kolibracorp.hterminal)
+- Maintenance Studio on VK: [Open VK](https://vk.com/kolibracorp.official)
+- Kolibra Holding on VK: [Open VK](https://vk.com/kolibra.group)
+
+## Other resources
+- hterminal on OpenVK: [Go to OpenVK](https://ovk.to/hterminal)
+- hteam on Telegram [Go to Telegram](https://t.me/hteam_development)
